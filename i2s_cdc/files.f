@@ -1,0 +1,12 @@
+fifomem.sv
+sync_r2w.sv
+sync_w2r.sv
+rptr_empty.sv
+wptr_full.sv
+fifo1.sv
+rst_sync.sv
+clk_mux.sv
+i2s_clkgen.sv
+i2s_transmitter.sv
+i2s_receiver.sv
+i2s_transceiver.sv
